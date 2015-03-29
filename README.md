@@ -4,7 +4,7 @@ Prism.EventAggregator
 A simple event aggregator, i.e. a publisher/subscriber mechanism
 without strong coupling.
 
-image 
+![](https://github.com/tngraf/Prism.EventAggregator/tree/master/doc/EventAggregator.png) 
 
 Once I required some kind of event aggregator. I browsed the web for ideas
 for the best approach. But there were far too many solution only for specific
@@ -12,7 +12,11 @@ aspects or wit some severe drawback (for example like not using weak events).
 At the end I thought, why should I write my own code when a widely used
 solution is already available as open source? 
 
-So I decided to extract the event aggregator part of **Prism** and place it in its own small library. 
+So I decided to extract the event aggregator part of **Microsoft Prism** and place it in its own small library.
+
+
+## Project Build Status ##
+[![Build status](https://ci.appveyor.com/api/projects/status/d3l2lru8k52j4hd7?svg=true)](https://ci.appveyor.com/project/tngraf/prism-eventaggregator/branch/master) 
 
 ## Build ##
 

@@ -4,7 +4,7 @@ Prism.EventAggregator
 A simple event aggregator, i.e. a publisher/subscriber mechanism
 without strong coupling.
 
-![](https://github.com/tngraf/Prism.EventAggregator/tree/master/doc/EventAggregator.png) 
+![EventAggregator Image](https://github.com/tngraf/Prism.EventAggregator/blob/master/doc/EventAggregator.png)
 
 Once I required some kind of event aggregator. I browsed the web for ideas
 for the best approach. But there were far too many solution only for specific

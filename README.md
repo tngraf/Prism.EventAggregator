@@ -17,6 +17,7 @@ So I decided to extract the event aggregator part of **Microsoft Prism** and pla
 
 ## Project Build Status ##
 [![Build status](https://ci.appveyor.com/api/projects/status/d3l2lru8k52j4hd7?svg=true)](https://ci.appveyor.com/project/tngraf/prism-eventaggregator/branch/master) 
+[![License](https://img.shields.io/badge/license-Apache--2.0-blue.svg)](http://www.apache.org/licenses/LICENSE-2.0)
 
 ## Build ##
 
